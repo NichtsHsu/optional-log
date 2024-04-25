@@ -1,0 +1,13 @@
+[package]
+authors = ["Nichts Hsu <NichtsVonChaos@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "A simple way to provide an optional `log` feature for you crates"
+readme = "README.md"
+name = "optional-log"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/NichtsHsu/optional-log"
+keywords = ["log", "optional", "switch"]
+categories = ["configuration"]
+
+[dependencies]
