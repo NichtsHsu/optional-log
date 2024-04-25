@@ -8,6 +8,6 @@ version = "0.1.0"
 edition = "2021"
 repository = "https://github.com/NichtsHsu/optional-log"
 keywords = ["log", "optional", "switch"]
-categories = ["configuration"]
+categories = ["config"]
 
 [dependencies]
